@@ -1,0 +1,24 @@
+{
+  "name": "graph-utils",
+  "version": "0.0.1",
+  "description": "图形、矩阵相关的工具类库",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanweiwei/graph-utils.git"
+  },
+  "author": "kanweiwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanweiwei/graph-utils/issues"
+  },
+  "homepage": "https://github.com/kanweiwei/graph-utils#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1",
+    "typescript": "^4.4.4"
+  }
+}
