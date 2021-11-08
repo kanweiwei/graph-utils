@@ -1,4 +1,4 @@
-type Vec = [number, number];
+export type Vec = [number, number];
 
 /**
  * @description 矩阵
